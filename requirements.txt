@@ -1,0 +1,11 @@
+scrapy
+webcolors
+python_Levenshtein==0.12.0
+pick==0.6.1
+python-slugify==1.2.0
+jellyfish
+algoliasearch
+53s16351635fsdsdf
+2343534gdfsgdfg
+dgfsdfghbtbgfb=12.3
+
