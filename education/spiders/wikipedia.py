@@ -3,7 +3,6 @@ import scrapy
 from scrapy.http import Request
 from scrapy.loader import ItemLoader
 from education.items import EducationItem
-import sdfdsfdsgfgr
 
 
 class WikipediaSpider(scrapy.Spider):
